@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Jabbarpatel
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Engineering
+Jabbar Patel
 
 
 <!---
