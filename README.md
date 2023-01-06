@@ -1,6 +1,6 @@
 Jabbar Patel
 
-Full Stack Developer
+Full Stack Web Developer
 
 <!---
 Jabbarpatel/Jabbarpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
